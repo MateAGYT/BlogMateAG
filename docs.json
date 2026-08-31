@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#07C983"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "pages": [
       {
@@ -53,13 +53,12 @@
     "links": [
       {
         "href": "mailto:legal@mateag.com",
-        "label": "Contacto Legal"
+        "label": "Contacto legal"
       }
     ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mateagyt"
     }
   }
 }
