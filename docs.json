@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "MateAG",
   "colors": {
-    "primary": "#7C3AED",
-    "light": "#A78BFA",
-    "dark": "#5B21B6"
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#07C983"
   },
   "favicon": "/favicon.svg",
   "navigation": {
