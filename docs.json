@@ -11,36 +11,19 @@
   "navigation": {
     "pages": [
       {
+        "group": "Documentos Legales",
+        "pages": [
+          "legal/privacidad",
+          "legal/terminos",
+          "legal/proteccion"
+        ]
+      },
+      "index",
+      {
         "group": "Getting Started",
         "pages": [
           "index",
           "quickstart"
-        ]
-      }
-    ],
-    "tabs": [
-      {
-        "tab": "Blog",
-        "groups": [
-          {
-            "group": "Blog",
-            "pages": [
-              "index"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Legal",
-        "groups": [
-          {
-            "group": "Documentos Legales",
-            "pages": [
-              "legal/privacidad",
-              "legal/terminos",
-              "legal/proteccion"
-            ]
-          }
         ]
       }
     ]
