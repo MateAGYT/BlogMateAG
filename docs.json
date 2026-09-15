@@ -15,17 +15,11 @@
         "pages": [
           "legal/privacidad",
           "legal/terminos",
-          "legal/proteccion"
+          "legal/proteccion",
+          "legal/avisolegal"
         ]
       },
-      "index",
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
+      "index"
     ]
   },
   "logo": {
